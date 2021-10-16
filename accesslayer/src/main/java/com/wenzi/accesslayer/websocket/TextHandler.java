@@ -6,6 +6,6 @@ import org.springframework.web.socket.handler.TextWebSocketHandler;
 
 @Slf4j
 @Component
-public class TextWebsocketHandler extends TextWebSocketHandler {
+public class TextHandler extends TextWebSocketHandler {
 
 }
